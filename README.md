@@ -162,6 +162,8 @@ Due to the size of the ABIDE dataset, users should download the original data di
 
 🏅 Citadel Securities Innovation Prize for exceptional data analysis techniques
 
+🏅 GSEF First Honor Award
+
 🏅 Cobb-Paulding Regional Science Fair First Place Winner
 
 ---
