@@ -5,6 +5,13 @@
 <p align="center">
 </p>
 
+<p align="center">
+  <img src="ISEF logo.webp" width="300">
+</p>
+
+<p align="center">
+</p>
+
 # Brain Connectivity in Autism Using Machine Learning
 ### Regeneron ISEF Finalist • Georgia Science & Engineering Fair Grand Award Winner
 
