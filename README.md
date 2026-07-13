@@ -1,9 +1,23 @@
+<p align="center">
+  <img src="pipeline.png" width="900">
+</p>
+
+<p align="center">
+<b>Figure 1.</b> Complete machine learning workflow from ABIDE preprocessing through model interpretation.
+</p>
+
 # Brain Connectivity in Autism Using Machine Learning
-### Regeneron ISEF Finalist • Georgia Science & Engineering Fair Grand Prize Winner
+### Regeneron ISEF Finalist • Georgia Science & Engineering Fair Grand Award Winner
 
 This repository contains the complete code, analysis workflow, and supporting materials for my research project investigating whether functional brain connectivity patterns measured by resting-state fMRI can distinguish individuals with Autism Spectrum Disorder (ASD) from neurotypical controls using machine learning.
 
 The project was selected as a **Regeneron International Science and Engineering Fair (ISEF) Finalist** after qualifying through the Georgia Science and Engineering Fair (GSEF).
+
+---
+
+## Analysis Pipeline
+
+
 
 ---
 
