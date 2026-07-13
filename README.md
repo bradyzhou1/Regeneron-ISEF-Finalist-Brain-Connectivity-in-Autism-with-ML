@@ -13,11 +13,13 @@
 </p>
 
 # Brain Connectivity in Autism Using Machine Learning
-### Regeneron ISEF Finalist • Georgia Science & Engineering Fair Grand Award Winner
+### 🏅 Regeneron ISEF Finalist • Georgia Science & Engineering Fair Grand Award Winner
 
 This repository contains the complete code, analysis workflow, and supporting materials for my research project investigating whether functional brain connectivity patterns measured by resting-state fMRI can distinguish individuals with Autism Spectrum Disorder (ASD) from neurotypical controls using machine learning.
 
 The project was selected as a **Regeneron International Science and Engineering Fair (ISEF) Finalist** after qualifying through the Georgia Science and Engineering Fair (GSEF).
+
+🔗 **Project Website (ISEF):** https://isef.net/project/cbio065-brain-connectivity-in-autism-with-machine-learning
 
 ---
 
