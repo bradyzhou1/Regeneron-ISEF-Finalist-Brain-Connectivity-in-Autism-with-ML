@@ -2,7 +2,7 @@
   <img src="pipeline.png" width="900">
 </p>
 
-<p align="left">
+<p align="center">
 </p>
 
 # Brain Connectivity in Autism Using Machine Learning
