@@ -19,7 +19,8 @@ This repository contains the complete code, analysis workflow, and supporting ma
 
 The project was selected as a **Regeneron International Science and Engineering Fair (ISEF) Finalist** after qualifying through the Georgia Science and Engineering Fair (GSEF).
 
-🔗 **Project Website (ISEF):** https://isef.net/project/cbio065-brain-connectivity-in-autism-with-machine-learning
+🔗 **Project Website (ISEF):** 
+https://isef.net/project/cbio065-brain-connectivity-in-autism-with-machine-learning
 
 ---
 
