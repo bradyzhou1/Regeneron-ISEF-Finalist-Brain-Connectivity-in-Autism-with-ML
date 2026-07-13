@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="pipeline.png" width="1200">
-</p>
-
-<p align="center">
-</p>
-
-<p align="center">
   <img src="ISEF logo.webp" width="300">
+</p>
+
+<p align="center">
+</p>
+
+<p align="center">
+  <img src="pipeline.png" width="1200">
 </p>
 
 <p align="center">
